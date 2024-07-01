@@ -1,2 +1,2 @@
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
-[KBD]: https://bhavya126.github.io/pomodoro-timer/
+A simple Pomodoro timer to stay focused!
+[Try Pomodoro](https://bhavya126.github.io/pomodoro-timer/)
